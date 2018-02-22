@@ -1,3 +1,0 @@
-# adatb2-kotprog
-coming soon...
-This is the first change I've ever made.
